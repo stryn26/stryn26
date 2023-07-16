@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-hello my name is arif sutriyono student at Universitas Teknologi Digital Indonesia<br>iam interesting at Backend engineer, IOT engineer and Linux system administrator, currently I am learning laravel
+hello my name is arif sutriyono student at Universitas Teknologi Digital Indonesia<br>iam interesting at Backend engineer, IOT engineer and Linux system administrator, currently I am learning django
 
 ## 🌐 Socials:
 
