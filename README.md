@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-hello my name is arif sutriyono As an enthusiastic fresh graduate, I possess skills in backend development using technologies like PHP (CodeIgniter and Laravel), Node.js (Express.js), and a strong understanding of DevOps and IoT. With an educational background in Computer Engineering, I am committed to continuous learning and growth in the technology industry.
+hello my name is arif sutriyono As an enthusiastic fresh graduate, I possess skills in backend development using technologies like PHP (CodeIgniter and Laravel), Python (Django), and a strong understanding of DevOps and IoT. With an educational background in Computer Engineering, I am committed to continuous learning and growth in the technology industry.
 
 ## 🌐 Socials:
 
